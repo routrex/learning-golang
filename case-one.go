@@ -4,7 +4,7 @@ import "fmt"
 
 
 func main() {
-
+// Tipe dta array
 	var noId [3]uint8
 
 	noId[0] = 001
